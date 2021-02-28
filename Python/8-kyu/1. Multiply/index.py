@@ -1,4 +1,4 @@
-/*
+'''
   Title:
     Multiply
 
@@ -11,31 +11,31 @@
   Problem:
     def multiply(a, b):
       a * b
-*/
+'''
 
-/*=============================================*/
+#=============================================#
 
-// My solution:
+# My solution:
 
 def multiply(a, b):
   return a * b
 
-/*=============================================*/
+#=============================================#
 
-// 1. Alternative Solution:
+# 1. Alternative Solution:
 
 def multiply(a, b):
   num = a * b
   return num
 
-// 2. Alternative Solution:
+# 2. Alternative Solution:
 
 def multiply(a, b):
   a *= b
   return a
 
-// 3. Alternative Solution:
+# 3. Alternative Solution:
 
 multiply = lambda a, b: a * b
 
-/*=============================================*/
+#=============================================#
