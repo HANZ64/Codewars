@@ -10,7 +10,7 @@
 
   Problem:
     def bool_to_word(boolean):
-      # TODO
+        # TODO
 '''
 
 #=============================================#
@@ -19,9 +19,9 @@
 
 def bool_to_word(boolean):
     if (boolean):
-      return "Yes"
+        return "Yes"
     else:
-      return "No"
+        return "No"
 
 #=============================================#
 
@@ -29,7 +29,7 @@ def bool_to_word(boolean):
 
 def bool_to_word(boolean):
     if boolean:
-      return "Yes"
+        return "Yes"
     return "No"
 
 # 2. Alternative Solution:
